@@ -3,24 +3,8 @@ layout: post
 title:  "Moonwalking with Einstein"
 author: veronicavaca
 categories: [ Book Reviews]
-image: assets/images/b2.jpg
+image: assets/images/b2.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
+An instant bestseller that is poised to become a classic, <a href="https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein?ac=1&from_search=true&qid=wWZy09H4oh&rank=1">Moonwalking with Einstein</a> recounts Joshua Foer's yearlong quest to improve his memory under the tutelage of top "mental athletes." He draws on cutting-edge research, a surprising cultural history of remembering, and venerable tricks of the mentalist's trade to transform our understanding of human memory. From the United States Memory Championship to deep within the author's own mind, this is an electrifying work of journalism that reminds us that, in every way that matters, we are the sum of our memories.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/C7MNdgFTed8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
