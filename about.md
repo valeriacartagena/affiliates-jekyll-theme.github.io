@@ -13,4 +13,3 @@ comments: true
 <a href="https://linkedin.com/in/veronicavaca/" target="_blank">Connect with me on LinkedIn</a>
 <a href="https://instagram.com/veronica_vaca/" target="_blank">Follow me on Instagram!</a>
 
-# ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
