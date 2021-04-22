@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "Moonwalking with Einstein"
 author: veronicavaca
-categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+categories: [ Book Reviews]
+image: assets/images/b2.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
 
