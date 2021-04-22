@@ -3,7 +3,7 @@ name: "Veronica Vaca"
 title: "Veronica Vaca"
 description: "ultralearner"
 meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/vero_small_logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'

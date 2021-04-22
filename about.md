@@ -3,20 +3,14 @@ layout: page
 title: About
 comments: true
 ---
+<p>I love to read and learn from others. Firmly believe education is the key to getting out of poverty and improving the world. My desire is to add value wherever I go and leave a legacy which transcends beyond my lifetime, giving of the much I have already received in this beautiful journey we call life.</p>
+<p> Drivers: </p>
+<p>Curiosity | Ultralearning | High Performance | Excellence | Professional in Finance for Energy companie. </p>
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+<p> FP&A professional with CPA qualification, extensive reporting and compliance experience, having more than 18 years of experience in the Oil and Gas industry. Core competencies include: Financial Modelling, Planning and Forecasting, Reporting, Corporate Finance, Taxation, Joint Ventures (Operated and non-Operated), Cost Controlling and US GAAP and IFRS. </p>
 
-**License & Download**
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+<a href="https://linkedin.com/in/veronicavaca/" target="_blank">Connect with me on LinkedIn</a>
+<a href="https://instagram.com/veronica_vaca/" target="_blank">Follow me on Instagram!</a>
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+# ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
